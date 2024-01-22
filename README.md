@@ -1,2 +1,2 @@
 # DroneVTOLSystem
-Designed a new VTOL System with SolidWorks and ANSYS, reducing drag by 37% and weight by 13%, saving $4000
+For our UofAlberta Capstone, we designed a new VTOL System with SolidWorks and ANSYS, reducing drag by 37% and weight by 13%, saving $4000
